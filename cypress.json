@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://sure-qa-challenge.vercel.app/",
+  "viewportWidth": 1500,
+  "viewportHeight": 920,
+  "chromeWebSecurity": false
+}
